@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Top Gun Maverick",
+        "video": "../videos/Top Gun_ Maverick _ NEW Official Trailer (2022 Movie) - Tom Cruise.mp4"
+    },
+    {
+        "id": 2,
+        "title": "Jumanji Welcome to the Jungle",
+        "video": "../videos/JUMANJI_ WELCOME TO THE JUNGLE - Official Trailer (HD).mp4"
+    },
+    {
+        "id": 3,
+        "title": "Captain America 4 - New World Order",
+        "video": "../videos/CAPTAIN AMERICA 4_ NEW WORLD ORDER - First Look Trailer (2024) Marvel Studios Movie.mp4"
+    }
+]

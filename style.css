@@ -193,7 +193,7 @@ ul li a{
 
 main{
     background-color: var(--black);
-    
+    padding-bottom: 74px;
 }
 
 .main_container{
@@ -285,6 +285,11 @@ main{
     height: 100%;
 }
 
+.load_button{
+    max-width: 1500px;
+    margin-left: auto;
+}
+
 .load{
     width: 113px;
     height: 37px;
@@ -294,7 +299,7 @@ main{
     outline: none;
     border-style: none;
     margin-top: 52px;
-    margin-left: 330px;
+    /* margin-left: 330px; */
 }
 
 /* !-------- Footer --------! */
